@@ -1,6 +1,6 @@
 # MouseCopy: Replace Traditional Ctrl+C, Ctrl+V with Mouse
 
-#### [简体中文文档](https://github.com/Faide-cyber/MouseCopy/blob/main/README_en.md)
+#### [简体中文文档](https://github.com/Faide-cyber/MouseCopy/blob/main/REMEDE_en.md)
 
 ![Static Badge](https://img.shields.io/badge/%40Github-Faide-%2300FFFF) ![Static Badge](https://img.shields.io/badge/Language-Java-%2325c2a0) ![Static Badge](https://img.shields.io/badge/PlatForm-Windows-%238c37dc) ![Static Badge](https://img.shields.io/badge/Version-1.0.0-%23e87435) ![Static Badge](https://img.shields.io/badge/License-GNU3.0-%2314bbc1)
 
