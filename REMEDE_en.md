@@ -2,7 +2,7 @@
 
 #### [English Doc](https://github.com/Faide-cyber/MouseCopy/blob/main/README.md)
 
-![Static Badge](https://img.shields.io/badge/%40Github-Faide-%2300FFFF)![Static Badge](https://img.shields.io/badge/Language-Java-%2325c2a0)![Static Badge](https://img.shields.io/badge/PlatForm-Windows-%238c37dc)![Static Badge](https://img.shields.io/badge/Version-1.0.0-%23e87435)![Static Badge](https://img.shields.io/badge/License-GNU3.0-%2314bbc1)
+![Static Badge](https://img.shields.io/badge/%40Github-Faide-%2300FFFF) ![Static Badge](https://img.shields.io/badge/Language-Java-%2325c2a0)![Static Badge](https://img.shields.io/badge/PlatForm-Windows-%238c37dc) ![Static Badge](https://img.shields.io/badge/Version-1.0.0-%23e87435) ![Static Badge](https://img.shields.io/badge/License-GNU3.0-%2314bbc1)
 
 ## 关于
 
@@ -60,7 +60,7 @@ MouseCopy（以下简称“本项目”）仅供学习和研究使用，禁止�
 
 ## 附加信息
 
-最新的源代码和文档可在以下网址获得： https://github.com/Faide-cyber/MouseCopy/
+最新的源代码和文档可在以下网址获得： https://github.com/Faide-cyber/MouseCopy
 
 ## 联系方式
 
@@ -70,5 +70,5 @@ MouseCopy（以下简称“本项目”）仅供学习和研究使用，禁止�
 
 在提交issue时，请确保描述清楚您的问题或反馈，并提供足够的上下文信息，以便我能够更好地理解和回答您的问题。
 
-<img src="E:/typora/img/D76B41268EC5403C5A855A898D657D1C-16982022109712.png" alt="img" style="zoom:15%;" align="left" />
+![QQ图片202310251908231](https://github.com/Faide-cyber/MouseCopy/assets/148406475/8b7ac122-d438-4d64-b6d0-330b514e4389)
 
