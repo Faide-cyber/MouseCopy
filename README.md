@@ -5,11 +5,11 @@
 ![Static Badge](https://img.shields.io/badge/%40Github-Faide-%2300FFFF) ![Static Badge](https://img.shields.io/badge/Language-Java-%2325c2a0) ![Static Badge](https://img.shields.io/badge/PlatForm-Windows-%238c37dc) ![Static Badge](https://img.shields.io/badge/Version-1.0.0-%23e87435) ![Static Badge](https://img.shields.io/badge/License-GNU3.0-%2314bbc1)
 
 
-## [About](https://github.com/Faide-cyber/MouseCopy/blob/main/README.md#about)
+## About
 
 GUI technologies in the Java field (such as Java Swing, JavaFX, etc.) can implement keyboard shortcuts. However, a fatal flaw of using this method to implement keyboard shortcuts is that if the cursor focus leaves the UI interface, all keyboard shortcuts will become ineffective. As for global mouse listening in Java, there are very few simple and easy-to-use interfaces provided by Java. JNI (Java Native Interface) is a method provided by the Java language itself to call locally compiled function libraries, but calling shared class libraries such as .dll/.so is very troublesome. JNA (Java Native Access) eliminates the need for repackaging C/C++ programs, but there are difficulties in cross-language calls. JNativeHook is a library that provides global keyboard and mouse listeners for Java, using JNI technology to call system methods to achieve this functionality, making it more friendly to Java.
 
-## [Installation](https://github.com/Faide-cyber/MouseCopy/blob/main/README.md#installation)
+## Installation
 
 1. Download the installation files for MouseCopy. You can find the installation files in the project repository. Please note that if you only need to run the program, you can directly open the "install" folder and run the exe file. If you need to deploy or develop, you may need to download additional files besides the "install" folder.
 2. Extract the downloaded installation files. Save the extracted files in the location of your choice.
@@ -19,7 +19,7 @@ GUI technologies in the Java field (such as Java Swing, JavaFX, etc.) can implem
 
 If you encounter any issues during the installation process, feel free to submit an issue or seek relevant technical support.
 
-## [Features](https://github.com/Faide-cyber/MouseCopy/blob/main/README.md#features)
+## Features
 
 MouseCopy provides the following features:
 
@@ -28,7 +28,7 @@ MouseCopy provides the following features:
 - Globally listen to mouse events: MouseCopy uses the JNativeHook library to implement global mouse event listening, capturing mouse drag and side button click events.
 - MouseCopy utilizes JNI API and Jnativehook library to replace traditional Ctrl+C and Ctrl+V functions with mouse operations. By using MouseCopy, users can copy and paste text more conveniently without relying on keyboard shortcuts.
 
-## [System Requirements](https://github.com/Faide-cyber/MouseCopy/blob/main/README.md#system-requirements)
+## System Requirements
 
 To ensure proper functioning of MouseCopy, your system must meet the following requirements:
 
@@ -39,7 +39,7 @@ To ensure proper functioning of MouseCopy, your system must meet the following r
 
 Please ensure that your system meets these requirements to ensure that MouseCopy can run properly.
 
-## [License](https://github.com/Faide-cyber/MouseCopy/blob/main/README.md#license)
+## License
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -54,7 +54,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-## [Disclaimer](https://github.com/Faide-cyber/MouseCopy/blob/main/README.md#disclaimer)
+## Disclaimer
 
 The MouseCopy(hereinafter referred to as "this project") is for learning and research purposes only, and it is prohibited to use it for any illegal purposes. If you choose to use any part of this project, you must comply with all relevant laws and regulations and bear all responsibilities arising therefrom.
 
@@ -66,11 +66,11 @@ Users should comply with relevant laws and regulations and respect the intellect
 
 The interpretation of this statement belongs to the author.
 
-## [Additional Information](https://github.com/Faide-cyber/MouseCopy/blob/main/README.md#additional-information)
+## Additional Information
 
-The latest source code and documentation can be obtained at the following URL: https://github.com/kwhat/jnativehook/
+The latest source code and documentation can be obtained at the following URL: https://github.com/Faide-cyber/MouseCopy/
 
-## [Contact Information](https://github.com/Faide-cyber/MouseCopy/blob/main/README.md#contact-information)
+## Contact Information
 
 WeChat or Email: 1350038426@qq.com
 
@@ -78,4 +78,5 @@ If you have any questions or concerns, you can also communicate with me by submi
 
 When submitting an issue, please make sure to describe your problem or feedback clearly and provide enough context information so that I can better understand and answer your question.
 
-![D76B41268EC5403C5A855A898D657D1C](https://github.com/Faide-cyber/MouseCopy/assets/148406475/3caebd87-7e7a-4a6b-98a6-c3716fac5e7a)
+![QQ图片202310251908231](https://github.com/Faide-cyber/MouseCopy/assets/148406475/8b7ac122-d438-4d64-b6d0-330b514e4389)
+
