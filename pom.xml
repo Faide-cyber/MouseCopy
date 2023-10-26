@@ -61,7 +61,7 @@
                             <administratorRequired>false</administratorRequired>
                             <platform>windows</platform>
                             <winConfig>
-                                <icoFile>D:\JavaFx\MouseCopy\src\main\resources\icon.ico</icoFile>
+                                <icoFile>${project.basedir}/src/main/resources/icon.ico</icoFile>
                                 <generateSetup>false</generateSetup>
                                 <generateMsi>false</generateMsi>
                                 <generateMsm>false</generateMsm>
