@@ -13,6 +13,7 @@ import javax.imageio.ImageIO;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.awt.event.KeyEvent;
 import java.io.IOException;
 import java.net.URL;
 public class MainActivity extends Application {
@@ -122,6 +123,12 @@ public class MainActivity extends Application {
     private void exitApplication() {
         if (trayIcon != null) {
             systemTray.remove(trayIcon);
+        }
+        try {
+            Robot robot = new Robot();
+            robot.keyRelease(KeyEvent.VK_CONTROL);
+        } catch (AWTException e) {
+            e.printStackTrace();
         }
         Platform.exit();
         System.exit(0);
